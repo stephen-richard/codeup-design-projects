@@ -1,0 +1,195 @@
+body {
+    background-color: #E6E6E6;
+}
+.header{
+    font-family: 'Abel', sans-serif;
+    font-size: 3.5em;
+}
+.anton {
+    font-family: 'Anton', sans-serif;
+}
+ul {
+    font-family: 'Abel', sans-serif;
+}
+@media screen and (min-width: 500px){
+    .header-logo{
+        width: 205px;
+        margin: auto;
+        background-color: white;
+    }
+    .jumbotron{
+        background-color: white;
+        padding: -10px;
+        overflow: visible;
+    }
+    ul {
+        list-style: none;
+        display: inline;
+        margin-bottom: 75px;
+        margin-top: 25px;
+        margin-right: 40px;
+    }
+    li {
+        display: inline;
+        margin: 10px;
+        font-size: 20px;
+    }
+    .navbar {
+        justify-content: center;
+        padding-top: 8px;
+    }
+    h1{
+        font-size: 66px;
+    }
+    h3 {
+        margin-top: 50px;
+        margin-bottom: 50px;
+        font-size: 40px;
+    }
+    .circle1{
+        width: 200px;
+        height: 200px;
+        background-color: #E6563B;
+        border-radius: 50%;
+        text-align: center;
+        text-align-all: center;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        margin-right: 25px;
+        margin-bottom: 10px;
+        border: white solid 10px;
+        font-size: xx-large;
+    }
+    .circle2{
+        width: 200px;
+        height: 200px;
+        background-color: #DEA03D;
+        border-radius: 50%;
+        text-align: center;
+        text-align-all: center;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        margin-right: 25px;
+        margin-bottom: 10px;
+        border: white solid 10px;
+        font-size: xx-large;
+    }
+    .circle3{
+        width: 200px;
+        height: 200px;
+        background-color: #7CB06C;
+        border-radius: 50%;
+        text-align: center;
+        text-align-all: center;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        margin-right: 25px;
+        border: white solid 10px;
+        font-size: xx-large;
+    }
+    .circle4{
+        width: 200px;
+        height: 200px;
+        background-color: #00ABA9;
+        border-radius: 50%;
+        text-align: center;
+        text-align-all: center;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        margin-right: 25px;
+        border: white solid 10px;
+        font-size: xx-large;
+    }
+    .row{
+        justify-content: center;
+    }
+    .work {
+        font-family: 'Abel', sans-serif;
+        margin-top: 200px;
+        margin-bottom: 75px;
+        text-align: center;
+    }
+    .apples{
+        border: #F0F0F0 solid 10px;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .oranges {
+        font-family: 'Abel', sans-serif;
+        display: flex;
+        text-align: left;
+        justify-content: left;
+        align-items: start;
+    }
+    .grapes>p {
+        display: inline;
+
+    }
+    .grapes{
+        margin-top: 15px;
+        margin-bottom: 100px;
+    }
+    .grapes-abel{
+        font-family: 'Abel', sans-serif;
+        margin-right: 75px;
+        margin-left: 20px;
+        font-size: x-large;
+    }
+    .circle-a{
+        width: 25px;
+        height: 25px;
+        background-color: #E6563B;
+        border-radius: 50%;
+        margin: 5px;
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+    }
+    .circle-b{
+        width: 40px;
+        height: 40px;
+        background-color: #DEA03D;
+        border-radius: 50%;
+        margin: 5px;
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+
+    }
+    .circle-c{
+        width: 20px;
+        height: 20px;
+        background-color: #7CB06C;
+        border-radius: 50%;
+        margin: 5px;
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+
+    }
+    .circle-d{
+        width: 20px;
+        height: 20px;
+        background-color: #00ABA9;
+        border-radius: 50%;
+        /*padding: 10px;*/
+        margin: 5px;
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+
+    }
+    .strip{
+        height: 100px;
+    }
+
+}
